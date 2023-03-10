@@ -10,7 +10,7 @@
 
 - A computer system engineering student
 - Currently learning React
-- I’m currently open for an Intern or a new job opportunit
+- 
 <br><br>
  
  ## My Skills :computer:
