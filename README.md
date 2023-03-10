@@ -20,14 +20,16 @@
 <tbody>
  <tr>
    
- <td align="center" width="50%">
+ <td align="center" width="33%">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
    
-   <td align="center" width="50%">
+   <td align="center" width="33%">
 <img height=80px src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" >
 </td>
-
+    <td align="center" width="33%">
+ <img height=80px src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" >
+</td>
 </tr>
 
 </tbody>
