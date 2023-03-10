@@ -23,12 +23,14 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
-<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-</td>
+
    
  <td align="center" width="50%">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+</td>
+   
+   <td align="center" width="50%">
+<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">
 </td>
 
 </tr>
