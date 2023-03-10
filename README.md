@@ -30,7 +30,7 @@
 </td>
    
    <td align="center" width="50%">
-<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">
+<img height=80px src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" >
 </td>
 
 </tr>
