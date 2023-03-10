@@ -6,7 +6,13 @@
 
  **About me**
  
- 
+ <br>
+
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning React
+- I’m currently open for an Intern or a new job opportunit
+<br><br>
  
  ## My Skills :computer:
 
