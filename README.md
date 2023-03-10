@@ -8,8 +8,7 @@
  
  <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- A computer system engineering student
 - Currently learning React
 - I’m currently open for an Intern or a new job opportunit
 <br><br>
