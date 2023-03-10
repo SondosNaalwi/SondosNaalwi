@@ -10,7 +10,7 @@
 
 - A computer system engineering student
 - Currently learning React
-- 
+ 
 <br><br>
  
  ## My Skills :computer:
